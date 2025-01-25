@@ -10,7 +10,7 @@ YOLOv8 (You Only Look Once, version 8) is the latest iteration of the YOLO famil
 5. Robust Training: Includes advanced augmentation techniques, automated learning rate scheduling, and loss functions for efficient training.<br>
 
 # ﻿Applicaion 
-Surveillance and security (e.g., pedestrian and vehicle detection)<br>
-Healthcare (e.g., tumor or disease detection in medical imaging)<br>
-Retail (e.g., product tracking and inventory management)<br>
-Autonomous vehicles (e.g., detecting road signs and obstacles)<br>
+1. Surveillance and security (e.g., pedestrian and vehicle detection)<br>
+2. Healthcare (e.g., tumor or disease detection in medical imaging)<br>
+3. Retail (e.g., product tracking and inventory management)<br>
+4. Autonomous vehicles (e.g., detecting road signs and obstacles)<br>
