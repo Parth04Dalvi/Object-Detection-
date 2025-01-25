@@ -9,7 +9,7 @@ Key Features of YOLOv8: <br>
 4. Pretrained Models: Offers a range of pretrained models (e.g., nano, small, medium, large, extra-large) to balance speed and accuracy based on hardware constraints.<br>
 5. Robust Training: Includes advanced augmentation techniques, automated learning rate scheduling, and loss functions for efficient training.<br>
 
-﻿# Application <br>
+﻿# Application
 📲📶<br>
 Surveillance and security (e.g., pedestrian and vehicle detection)<br>
 Healthcare (e.g., tumor or disease detection in medical imaging)<br>
