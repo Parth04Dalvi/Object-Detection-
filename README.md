@@ -1,4 +1,4 @@
-﻿# Object Detection 
+﻿# Object Detection 👾👽
 
 YOLOv8 (You Only Look Once, version 8) is the latest iteration of the YOLO family, offering state-of-the-art performance for object detection, image segmentation, and classification tasks. It is designed to be fast, accurate, and user-friendly, making it suitable for both research and deployment in real-world applications.
 
