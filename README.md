@@ -9,8 +9,7 @@ YOLOv8 (You Only Look Once, version 8) is the latest iteration of the YOLO famil
 4. Pretrained Models: Offers a range of pretrained models (e.g., nano, small, medium, large, extra-large) to balance speed and accuracy based on hardware constraints.<br>
 5. Robust Training: Includes advanced augmentation techniques, automated learning rate scheduling, and loss functions for efficient training.<br>
 
-﻿# Application
-📲📶<br>
+# ﻿Applicaion 
 Surveillance and security (e.g., pedestrian and vehicle detection)<br>
 Healthcare (e.g., tumor or disease detection in medical imaging)<br>
 Retail (e.g., product tracking and inventory management)<br>
