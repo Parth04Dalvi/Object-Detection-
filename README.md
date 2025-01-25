@@ -2,7 +2,7 @@
 
 YOLOv8 (You Only Look Once, version 8) is the latest iteration of the YOLO family, offering state-of-the-art performance for object detection, image segmentation, and classification tasks. It is designed to be fast, accurate, and user-friendly, making it suitable for both research and deployment in real-world applications.
 
-Key Features of YOLOv8: <br> 
+# Key Features of YOLOv8: <br> 
 1. Versatility: Supports multiple tasks like object detection, instance segmentation, and classification.<br>
 2. Improved Architecture: YOLOv8 introduces architectural improvements for better feature extraction, higher precision, and faster inference.<br>
 3. Ease of Use: Built-in compatibility with tools like Ultralytics, which offers a Pythonic interface for easy model training, evaluation, and deployment.<br>
